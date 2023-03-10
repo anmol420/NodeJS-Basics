@@ -1,4 +1,4 @@
-# JavaScript-Basics
+# NodeJS-Basics
 
 <h1>Requirements</h1>
 
