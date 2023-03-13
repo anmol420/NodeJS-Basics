@@ -1,0 +1,4 @@
+JAVASCRIPT
+Hello !! This Is A Sample File !!
+ Hello !! This Is A Sample File !! x2Hello !! This Is A Sample File !!
+ Hello !! This Is A Sample File !! x2
